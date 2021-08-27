@@ -23,7 +23,7 @@ Deep learning backed system not only solves the surveillance issue, but it also 
 I will solve the above-mentioned challenge by applying deep learning algorithms to live video data.
 The solution to this problem is by recognizing facial emotions.
 You can look at the power point presentation for better clarity on the model : 
-https://github.com/shafilahamed/Capstone-5--Real-Time-Face-Emotion-Recognition/blob/main/Capstone%205%20presentation.pptx
+https://github.com/sumeet6510/Facial-Emotions-Recognisation/blob/main/Face%20Emotion%20Recognisation%20-%20Capstone%20Project.pptx
 
 ## Dataset Information
 
